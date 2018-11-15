@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1542303411821.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "916AF7AB",
+    "lastKnownWriteTime" : 1542303616,
+    "last_content_update" : 1542303616723,
+    "path" : "~/Desktop/hw08-garyzhubc/hw08.Rmd",
+    "project_path" : "hw08.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
