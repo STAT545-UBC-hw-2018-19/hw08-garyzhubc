@@ -1,0 +1,13 @@
+name: bcliquor
+title: bcliquor
+username:
+account: garyzhubc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 584546
+bundleId: 1714393
+url: https://garyzhubc.shinyapps.io/bcliquor/
+when: 1542862878.34593
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/.DS_Store
